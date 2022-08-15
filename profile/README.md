@@ -10,6 +10,7 @@
 | [sending](https://github.com/noteable-io/sending) | Async Pub/Sub library for Python |
 | [origami](https://github.com/noteable-io/origami) | A library capturing message patterns and protocols speaking to Noteable's APIs |
 | [papermill-origami](https://github.com/noteable-io/papermill-origami) | A [papermill](https://github.com/nteract/papermill) engine for running Noteable notebooks |
+| [noteable-notebook-magics](https://github.com/noteable-io/noteable-notebook-magics) | IPython magics created for the Noteable platform |
 | [magicbell-python-sdk](https://github.com/noteable-io/magicbell-python-sdk) | Unofficial Python SDK for MagicBell |
 | [managed-service-fixtures](https://github.com/noteable-io/managed-service-fixtures) | Pytest fixtures for managed services in your tests, such as Cockroach DB, Vault, and Redis |
 | [minor-illusion](https://github.com/noteable-io/minor-illusion) | Minimal front-end, back-end, and database example using same frameworks as production Noteable apps |
