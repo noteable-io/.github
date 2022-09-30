@@ -14,3 +14,4 @@
 | [magicbell-python-sdk](https://github.com/noteable-io/magicbell-python-sdk) | Unofficial Python SDK for MagicBell |
 | [managed-service-fixtures](https://github.com/noteable-io/managed-service-fixtures) | Pytest fixtures for managed services in your tests, such as Cockroach DB, Vault, and Redis |
 | [minor-illusion](https://github.com/noteable-io/minor-illusion) | Minimal front-end, back-end, and database example using same frameworks as production Noteable apps |
+| [dx](https://github.com/noteable-io/dx) | IPython display formatter registration and tabular data formatting for DEX media types |
